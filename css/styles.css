@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: #fbe7c6;
+}
+
+footer {
+  margin: 30px auto;
+}
+
+footer a {
+  margin: 0 10px;
+}
